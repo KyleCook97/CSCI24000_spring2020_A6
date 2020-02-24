@@ -29,7 +29,7 @@ Student::Student(std::string, std::string, double, int, std::string, std::string
 
 Student::~Student()
 {
-    delete[] s;
+    
 }//end destructor
 
 std::string Student::getSurname()

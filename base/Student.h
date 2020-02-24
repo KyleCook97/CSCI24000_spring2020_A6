@@ -15,6 +15,14 @@ class Student
         std::string DOB;
         std::string DOC;
 
+        //temporary variables
+        std::string tSurname;
+        std::string tGivenName;
+        double tGPA;
+        int tCreditHours;
+        std::string tDOB;
+        std::string tDOC;
+
     public:
         Student();
         Student(std::string, std::string, double, int, std::string, std::string);

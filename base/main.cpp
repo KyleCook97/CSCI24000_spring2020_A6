@@ -19,15 +19,15 @@ int main()
 
     inFile.open("students.dat");
 
-    Student *s = new Student();
+    Student *s = new Student[10];
     //just in case there isnt enough memory during runtime
     if (!s)
     {
         std::cout << "Memory allocation failed\n";
     }
-
+    std::cout << s[0].getGivenName() << std::endl;
     //destroy all students
-    ~Student();
+    delete[]s;
 
     return 0;
 }//end main
