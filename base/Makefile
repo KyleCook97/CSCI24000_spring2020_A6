@@ -7,7 +7,7 @@ Student.o: Student.cpp Student.h
 run: studentData
 	./studentData
 valgrind:
-	valgrind studentData
+	valgrind ./studentData
 clean:
 	rm *o
 	rm studentData
