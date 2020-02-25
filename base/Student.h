@@ -39,9 +39,9 @@ class Student
         void setDOB(std::string tDOB);
         std::string getDOC();
         void setDOC(std::string tDOC);
-        void fullReport(Student[]);
-        void simpleReport(Student[]);
-        void alphaReport(Student[]);
+        void fullReport(Student s[]);
+        void simpleReport(Student s[]);
+        void alphaReport(Student s[]);
 };
 
 #endif
