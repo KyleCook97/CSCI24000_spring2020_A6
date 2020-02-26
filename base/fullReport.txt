@@ -1,0 +1,550 @@
+Last name: Florence
+First name: Forrest
+Address: 1843 Glenview Drive 
+City: Corpus Christi
+State: TX
+Zip Code: 78401
+Birthday: 10/12/1992
+Completeion Date: 5/14/2012
+GPA: 3.215
+Credit Hours: 127
+--------------------------------
+Last name: Casey
+First name: Roberta
+Address: 3668 Thunder Road 
+City: Palo Alto
+State: CA
+Zip Code: 94306
+Birthday: 2/13/1983
+Completeion Date: 5/14/2014
+GPA: 2.978
+Credit Hours: 95
+--------------------------------
+Last name: Koch
+First name: Sandra
+Address: 2707 Waterview Lane Apt 302
+City: Las Vegas
+State: NM
+Zip Code: 87701
+Birthday: 6/6/1972
+Completeion Date: 12/14/2015
+GPA: 2.546
+Credit Hours: 69
+--------------------------------
+Last name: Dover
+First name: Darrel
+Address: 845 Dola Mine Road 
+City: Wendell
+State: NC
+Zip Code: 27591
+Birthday: 3/31/1968
+Completeion Date: 5/14/2012
+GPA: 3.958
+Credit Hours: 75
+--------------------------------
+Last name: Turner
+First name: Doris
+Address: 4489 Tully Street Apt B
+City: Detroit
+State: MI
+Zip Code: 48219
+Birthday: 5/21/1988
+Completeion Date: 5/14/2014
+GPA: 2.127
+Credit Hours: 187
+--------------------------------
+Last name: Hernandez
+First name: Juan
+Address: 2656 Creekside Lane 
+City: Goleta
+State: CA
+Zip Code: 93117
+Birthday: 7/21/1979
+Completeion Date: 12/14/2015
+GPA: 1.598
+Credit Hours: 156
+--------------------------------
+Last name: Moon
+First name: Sandy
+Address: 1125 Joyce Street 
+City: Mobile
+State: AL
+Zip Code: 36693
+Birthday: 12/28/1977
+Completeion Date: 5/14/2012
+GPA: 3.995
+Credit Hours: 124
+--------------------------------
+Last name: Reid
+First name: Andre
+Address: 1225 Gnatty Creek Road 
+City: Westbury
+State: NY
+Zip Code: 11590
+Birthday: 12/19/1986
+Completeion Date: 5/14/2014
+GPA: 2.985
+Credit Hours: 112
+--------------------------------
+Last name: Cracraft
+First name: Tara
+Address: 3479 Austin Avenue 
+City: Brunswick
+State: GA
+Zip Code: 31520
+Birthday: 2/4/1973
+Completeion Date: 12/14/2015
+GPA: 3.256
+Credit Hours: 162
+--------------------------------
+Last name: Valadez
+First name: Vincent
+Address: 1740 Parkview Drive 
+City: Sugar Land
+State: TX
+Zip Code: 77478
+Birthday: 9/23/1975
+Completeion Date: 5/14/2012
+GPA: 3.127
+Credit Hours: 106
+--------------------------------
+Last name: Howard
+First name: William
+Address: 816 Wayside Lane 
+City: Hayward
+State: CA
+Zip Code: 94545
+Birthday: 4/9/1971
+Completeion Date: 5/14/2014
+GPA: 3.568
+Credit Hours: 95
+--------------------------------
+Last name: Mills
+First name: Gary
+Address: 2888 Rowes Lane 
+City: Irvington
+State: KY
+Zip Code: 40146
+Birthday: 4/22/1990
+Completeion Date: 12/14/2015
+GPA: 3.759
+Credit Hours: 127
+--------------------------------
+Last name: Lett
+First name: Victoria
+Address: 4250 Pringle Drive 
+City: Chicago
+State: IL
+Zip Code: 60606
+Birthday: 8/13/1987
+Completeion Date: 5/14/2012
+GPA: 3.862
+Credit Hours: 95
+--------------------------------
+Last name: Brice
+First name: William
+Address: 4332 Larry Street Apt 456
+City: New Berlin
+State: WI
+Zip Code: 53151
+Birthday: 1/11/1974
+Completeion Date: 5/14/2014
+GPA: 3.215
+Credit Hours: 69
+--------------------------------
+Last name: Hutchison
+First name: Craig
+Address: 3704 Green Street 
+City: Nashville
+State: TN
+Zip Code: 37211
+Birthday: 9/27/1969
+Completeion Date: 12/14/2015
+GPA: 2.978
+Credit Hours: 75
+--------------------------------
+Last name: Taylor
+First name: Danielle
+Address: 4900 Hudson Street 
+City: Haledon
+State: NJ
+Zip Code: 7508
+Birthday: 7/17/1983
+Completeion Date: 5/14/2012
+GPA: 2.546
+Credit Hours: 162
+--------------------------------
+Last name: Gingerich
+First name: Ermelinda
+Address: 3834 Milford Street Apt F
+City: Sunapee
+State: NH
+Zip Code: 3782
+Birthday: 12/17/1973
+Completeion Date: 5/14/2014
+GPA: 3.958
+Credit Hours: 106
+--------------------------------
+Last name: Moody
+First name: Derek
+Address: 264 Tetrick Road 
+City: Bowling Green
+State: FL
+Zip Code: 33834
+Birthday: 10/23/1980
+Completeion Date: 12/14/2015
+GPA: 2.127
+Credit Hours: 95
+--------------------------------
+Last name: Howell
+First name: Sonja
+Address: 1093 Olen Thomas Drive P.O. Box 552
+City: Wichita Falls
+State: TX
+Zip Code: 76301
+Birthday: 9/18/1984
+Completeion Date: 5/14/2012
+GPA: 1.598
+Credit Hours: 124
+--------------------------------
+Last name: Miser
+First name: Michael
+Address: 1532 South Street 
+City: Midland
+State: TX
+Zip Code: 79701
+Birthday: 10/25/1967
+Completeion Date: 5/14/2014
+GPA: 3.995
+Credit Hours: 75
+--------------------------------
+Last name: Davenport
+First name: Robin
+Address: 4174 Columbia Mine Road 
+City: Wheeling
+State: WV
+Zip Code: 26003
+Birthday: 3/9/1971
+Completeion Date: 12/14/2015
+GPA: 2.985
+Credit Hours: 187
+--------------------------------
+Last name: Langley
+First name: Joycelyn
+Address: 1254 Woodland Drive 
+City: Omaha
+State: NE
+Zip Code: 68114
+Birthday: 2/8/1979
+Completeion Date: 5/14/2012
+GPA: 3.256
+Credit Hours: 156
+--------------------------------
+Last name: Bryant
+First name: Ann
+Address: 1334 Progress Way 
+City: Minneapolis
+State: MN
+Zip Code: 55401
+Birthday: 2/28/1977
+Completeion Date: 5/14/2014
+GPA: 3.127
+Credit Hours: 124
+--------------------------------
+Last name: Barnett
+First name: Patrick
+Address: 2432 Warner Street 
+City: Casper
+State: WY
+Zip Code: 82601
+Birthday: 7/28/1977
+Completeion Date: 12/14/2015
+GPA: 3.568
+Credit Hours: 95
+--------------------------------
+Last name: Knepp
+First name: Christopher
+Address: 1012 Oakmound Road 
+City: Chicago
+State: IL
+Zip Code: 60623
+Birthday: 2/21/1968
+Completeion Date: 5/14/2012
+GPA: 3.759
+Credit Hours: 127
+--------------------------------
+Last name: Canfield
+First name: Reginald
+Address: 4212 Coal Street 
+City: Somerset
+State: PA
+Zip Code: 15501
+Birthday: 3/21/1988
+Completeion Date: 5/14/2014
+GPA: 3.862
+Credit Hours: 95
+--------------------------------
+Last name: Lippert
+First name: Margarita
+Address: 781 Hillcrest Lane 
+City: Fullerton
+State: CA
+Zip Code: 93632
+Birthday: 6/8/1978
+Completeion Date: 12/14/2015
+GPA: 1.598
+Credit Hours: 69
+--------------------------------
+Last name: Kist
+First name: Barbara
+Address: 2103 Mapleview Drive 
+City: Jackson
+State: TN
+Zip Code: 38301
+Birthday: 11/3/1980
+Completeion Date: 5/14/2012
+GPA: 3.995
+Credit Hours: 75
+--------------------------------
+Last name: Waters
+First name: Ladonna
+Address: 68 Oak Ridge Drive 
+City: Mexico
+State: MO
+Zip Code: 65265
+Birthday: 4/4/1969
+Completeion Date: 5/14/2014
+GPA: 2.985
+Credit Hours: 187
+--------------------------------
+Last name: Shepherd
+First name: Julio
+Address: 2446 Camden Street 
+City: Reno
+State: NV
+Zip Code: 89502
+Birthday: 6/23/1978
+Completeion Date: 12/14/2015
+GPA: 3.256
+Credit Hours: 156
+--------------------------------
+Last name: Hernandez
+First name: Antonio
+Address: 3232 Fairmont Avenue 
+City: Kansas City
+State: MO
+Zip Code: 64106
+Birthday: 3/12/1980
+Completeion Date: 5/14/2012
+GPA: 3.127
+Credit Hours: 124
+--------------------------------
+Last name: Ridge
+First name: Sharon
+Address: 3964 Stoney Lane P.O. Box 549
+City: Dallas
+State: TX
+Zip Code: 75247
+Birthday: 1/8/1991
+Completeion Date: 5/14/2014
+GPA: 3.568
+Credit Hours: 112
+--------------------------------
+Last name: Lambert
+First name: Michael
+Address: 2174 Kyle Street 
+City: Venango
+State: NE
+Zip Code: 69168
+Birthday: 10/6/1982
+Completeion Date: 12/14/2015
+GPA: 3.759
+Credit Hours: 162
+--------------------------------
+Last name: Tapp
+First name: Michael
+Address: 4569 Shobe Lane 
+City: Greeley
+State: CO
+Zip Code: 80634
+Birthday: 3/12/1972
+Completeion Date: 5/14/2012
+GPA: 3.862
+Credit Hours: 106
+--------------------------------
+Last name: Lewis
+First name: Peggy
+Address: 1601 Hall Valley Drive 
+City: Wheeling
+State: WV
+Zip Code: 26003
+Birthday: 5/1/1981
+Completeion Date: 5/14/2014
+GPA: 1.598
+Credit Hours: 127
+--------------------------------
+Last name: Smith
+First name: Darren
+Address: 2836 Briarwood Road 
+City: Springfield
+State: MO
+Zip Code: 65804
+Birthday: 5/26/1968
+Completeion Date: 12/14/2015
+GPA: 3.995
+Credit Hours: 95
+--------------------------------
+Last name: Adair
+First name: Jeffrey
+Address: 4478 Hillside Street 
+City: Phoenix
+State: AZ
+Zip Code: 85016
+Birthday: 7/3/1986
+Completeion Date: 5/14/2012
+GPA: 2.985
+Credit Hours: 69
+--------------------------------
+Last name: Greene
+First name: Eric
+Address: 569 Pine Garden Lane 
+City: Norcross
+State: GA
+Zip Code: 30091
+Birthday: 8/10/1972
+Completeion Date: 5/14/2014
+GPA: 3.256
+Credit Hours: 75
+--------------------------------
+Last name: Gilham
+First name: Mike
+Address: 3543 Ventura Drive Apt H
+City: Marina
+State: CA
+Zip Code: 93933
+Birthday: 9/27/1980
+Completeion Date: 12/14/2015
+GPA: 2.546
+Credit Hours: 162
+--------------------------------
+Last name: Dorsey
+First name: Tammy
+Address: 2111 Liberty Avenue 
+City: Los Angeles
+State: CA
+Zip Code: 90017
+Birthday: 10/19/1969
+Completeion Date: 5/14/2012
+GPA: 3.958
+Credit Hours: 106
+--------------------------------
+Last name: Lewis
+First name: Robert
+Address: 2253 Brannon Avenue 
+City: Jacksonville
+State: FL
+Zip Code: 32216
+Birthday: 8/6/1979
+Completeion Date: 5/14/2014
+GPA: 2.127
+Credit Hours: 95
+--------------------------------
+Last name: Petitt
+First name: Craig
+Address: 2397 My Drive 
+City: Garden City
+State: NY
+Zip Code: 11530
+Birthday: 6/15/1971
+Completeion Date: 12/14/2015
+GPA: 1.598
+Credit Hours: 124
+--------------------------------
+Last name: Quarles
+First name: Helen
+Address: 98 Mount Tabor 
+City: New York
+State: NY
+Zip Code: 10013
+Birthday: 9/5/1980
+Completeion Date: 5/14/2012
+GPA: 3.995
+Credit Hours: 75
+--------------------------------
+Last name: Frey
+First name: Catherine
+Address: 1504 Shobe Lane 
+City: Loveland
+State: CO
+Zip Code: 80537
+Birthday: 4/5/1981
+Completeion Date: 5/14/2014
+GPA: 2.985
+Credit Hours: 69
+--------------------------------
+Last name: Ortiz
+First name: Sophie
+Address: 977 Seltice Way Apt 56
+City: Boise
+State: ID
+Zip Code: 83704
+Birthday: 8/6/1976
+Completeion Date: 12/14/2015
+GPA: 3.256
+Credit Hours: 75
+--------------------------------
+Last name: McAbee
+First name: Michael
+Address: 959 Hall Street 
+City: Las Vegas
+State: NV
+Zip Code: 89119
+Birthday: 3/7/1991
+Completeion Date: 5/14/2012
+GPA: 3.127
+Credit Hours: 187
+--------------------------------
+Last name: Herrera
+First name: David
+Address: 3084 Hart Country Lane 
+City: Norcross
+State: GA
+Zip Code: 30093
+Birthday: 6/19/1981
+Completeion Date: 5/14/2014
+GPA: 2.127
+Credit Hours: 156
+--------------------------------
+Last name: Parry
+First name: Paul
+Address: 3425 Valley Street 
+City: Vineland
+State: NJ
+Zip Code: 8360
+Birthday: 12/17/1973
+Completeion Date: 12/14/2015
+GPA: 1.598
+Credit Hours: 124
+--------------------------------
+Last name: Carter
+First name: Lisa
+Address: 1809 Oak Ridge Drive 
+City: Rolla
+State: MO
+Zip Code: 65401
+Birthday: 2/25/1989
+Completeion Date: 5/14/2012
+GPA: 3.995
+Credit Hours: 112
+--------------------------------
+Last name: Barbee
+First name: James
+Address: 4756 Mapleview Drive 
+City: Ripley
+State: TN
+Zip Code: 38063
+Birthday: 12/27/1983
+Completeion Date: 5/14/2014
+GPA: 2.985
+Credit Hours: 162
+--------------------------------

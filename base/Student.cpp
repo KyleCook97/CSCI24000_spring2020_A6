@@ -13,8 +13,6 @@ Student::Student()
     givenName = "anon";
     GPA = 0.0;
     creditHours = 0;
-    DOB = "01/01/1000";
-    DOC = "02/02/2000";
 }//end constructor
 
 Student::Student(std::string, std::string, double, int, std::string, std::string)
@@ -72,22 +70,118 @@ void Student::setCreditH(int tCreditHours)
     creditHours = tCreditHours;
 }//end setCreditH
 
-std::string Student::getDOB()
+Date Student::getDOB()
 {
     return DOB;
 }//end getDOB
 
-void Student::setDOB(std::string tDOB)
+void Student::setDOB(Date tDOB)
 {
     DOB = tDOB;
 }//end setDOB
 
-std::string Student::getDOC()
+Date Student::getDOC()
 {
     return DOC;
 }//end getDOC
 
-void Student::setDOC(std::string tDOC)
+void Student::setDOC(Date tDOC)
 {
     DOC = tDOC;
 }//end setDOB
+
+Address Student::getStudLineOne()
+{
+    return studLineOne;
+}//end getStudLineOne
+
+void Student::setStudLineOne(Address TstudLineOne)
+{
+    studLineOne = TstudLineOne;
+}//end setStudLineOne
+
+Address Student::getStudLineTwo()
+{
+    return studLineTwo;
+}//end getStudLineTwo
+
+void Student::setStudLineTwo(Address TstudLineTwo)
+{
+    studLineTwo = TstudLineTwo;
+}//end setStudLineTwo
+
+Address Student::getStudCity()
+{
+    return studCity;
+}//end getStudCity
+
+void Student::setStudCity(Address TstudCity)
+{
+    studCity = TstudCity;
+}//end setStudCity
+
+Address Student::getStudState()
+{
+    return studState;
+}//end getStudState
+
+void Student::setStudState(Address TstudState)
+{
+    studState = TstudState;
+}//end setStudState
+
+Address Student::getStudZip()
+{
+    return studZip;
+}//end getStudZip
+
+void Student::setStudZip(Address TstudZip)
+{
+    studZip = TstudZip;
+}//end getStudZip
+
+void Student::fullReport(Student s[])
+{
+    std::ofstream outFile;
+
+    outFile.open("fullReport.txt");
+    for(int i = 0; i < 50; i++)
+    {
+            outFile << "Last name: " << s[i].getSurname() << std::endl;
+            outFile << "First name: " << s[i].getGivenName() << std::endl;
+            outFile << "Address: " << s[i].getStudLineOne().getLineOne() << " " << s[i].getStudLineTwo().getLineTwo() << std::endl;
+            outFile << "City: " << s[i].getStudCity().getCity() << std::endl;
+            outFile << "State: " << s[i].getStudState().getState() << std::endl;
+            outFile << "Zip Code: " << s[i].getStudZip().getZip() << std::endl;
+            outFile << "Birthday: " << s[i].getDOB().getDate() << std::endl;
+            outFile << "Completeion Date: " << s[i].getDOC().getDate() << std::endl;
+            outFile << "GPA: " << s[i].getGPA() << std::endl;
+            outFile << "Credit Hours: " << s[i].getCreditH() << std::endl;
+            outFile << "--------------------------------" << std::endl;
+    }//end for
+    outFile.close();
+}//end fullReport
+
+void Student::shortReport(Student s[])
+{
+    std::ofstream outFile;
+
+    outFile.open("shortReport.txt");
+    for(int i = 0; i < 50; i++)
+    {
+        outFile << s[i].getSurname() << " " << s[i].getGivenName() << std::endl;
+    }//end for
+    outFile.close();
+}//end shortReport
+
+void Student::alphaReport(Student s[])
+{
+    std::ofstream outFile;
+
+    outFile.open("alphaReport.txt");
+    for(int i = 0; i < 50; i++)
+    {
+        outFile << s[i].getSurname() << " " << s[i].getGivenName() << std::endl;
+    }//end for
+    outFile.close();
+}//end alphaReport
